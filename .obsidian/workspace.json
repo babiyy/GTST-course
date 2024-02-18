@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux file hierarchy.md",
+                "file": "Linux/Linux script.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7fda6caedbd8aac7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Linux Cod.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux Cod.md",
+                "file": "Linux/Linux script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux Cod.md",
+                "file": "Linux/Linux script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux Cod.md"
+                "file": "Linux/Linux script.md"
               }
             }
           }
@@ -162,20 +147,25 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "7fda6caedbd8aac7",
+  "active": "35eee75ef5c420cd",
   "lastOpenFiles": [
-    "Linux/Linux Cod.md",
-    "Linux/Linux file hierarchy.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "GTST-course/How to Add github.md",
-    "Linux",
-    "GTST-course/GTea/information security.md",
-    "GTST-course/day1.md",
+    "Linux/Linux script.md",
+    "Linux/Linux file hierarchy.md",
+    "Linux/Linux Cod.md",
+    "GTST-course/How to use github for beginner after.md",
     "GTST-course/Capture.PNG",
-    "GTST-course/day3.md",
+    "GTST-course/GTea/information security.md",
     "push-test/README.md",
     "push-test/day3 - Copy.md",
+    "push-test",
+    "Linux",
+    "GTST-course/push-test",
+    "GTST-course/GTea",
+    "GTST-course",
+    "GTST-course/day3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "gtst_cours/README.md"
   ]
 }
