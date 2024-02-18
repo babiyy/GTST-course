@@ -22,13 +22,15 @@
           {
             "id": "7fda6caedbd8aac7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Linux/Linux Cod.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
