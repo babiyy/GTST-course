@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "84dd043b326fcb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "54909a2f593faa21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35eee75ef5c420cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Linux file hierarchy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fda6caedbd8aac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Linux Cod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30156c2032b07d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd65b78d2563617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7596fb0ac4faf794",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "389d73d9df4cc599",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa2aff987533e4a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d1ffc371df977de",
+    "type": "split",
+    "children": [
+      {
+        "id": "816d7bf10307439e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7423a28f99840c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Linux Cod.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad32839c9c9a91d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Linux Cod.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f39b9a45b5d755a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a85477e0375f2be3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Linux Cod.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "7fda6caedbd8aac7",
+  "lastOpenFiles": [
+    "Linux/Linux Cod.md",
+    "Linux/Linux file hierarchy.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "GTST-course/How to Add github.md",
+    "Linux",
+    "GTST-course/GTea/information security.md",
+    "GTST-course/day1.md",
+    "GTST-course/Capture.PNG",
+    "GTST-course/day3.md",
+    "push-test/README.md",
+    "push-test/day3 - Copy.md",
+    "gtst_cours/README.md"
+  ]
+}
